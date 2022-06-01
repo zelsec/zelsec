@@ -1,4 +1,5 @@
-````λ x [~/.oh-my-zsh/custom] at  master ✔ 
+````
+λ x [~/.oh-my-zsh/custom] at  master ✔ 
 → neofetch                                                                                                                     [e9e8c6b]
                    -`                    x@pc 
                   .o+`                   -------                                                                                         
