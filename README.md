@@ -13,7 +13,7 @@
           `/+++ooooooooooooo/`           DE: Deepin 20.2.2                                                                               
          ./ooosssso++osssssso+`          WM: Mutter(DeepinGala)                                                                          
         .oossssso-````/ossssss+`         Theme: deepin [GTK2/3]                                                                          
-       -osssssso.      :ssssssso.        Icons: bloom [GTK2/3]                                                                           
+       -osssssso.      :ssssssso.        Icons: blooom [GTK2/3]                                                                           
       :osssssss/        osssso+++.       Terminal: deepin-terminal                                                                       
      /ossssssss/        +ssssooo/-       CPU: AMD Ryzen 7 3700X (16) @ 3.600GHz                                                          
    `/ossssso+/:-        -:/+osssso+-     GPU: AMD ATI Radeon RX 5500/5500M / Pro 5500M                                                   
